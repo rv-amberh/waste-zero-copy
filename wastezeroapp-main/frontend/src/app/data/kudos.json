@@ -1,0 +1,88 @@
+{
+    "kudos": [
+        {
+            "title": "Target",
+            "description": "b94b9efd-9823-4d61-9b16-c39f8bdb1ea3",
+            "content": "Free shipping on your next order from Target!",
+            "expires_on": "2025-01-22",
+            "logo": "/logos/targetlogo.png"
+        },
+        {
+            "title": "Walmart",
+            "description": "141429f0-7286-4d28-8e53-5afaaeda6487",
+            "content": "Buy one, get one free from Walmart!",
+            "expires_on": "2024-12-15",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Walmart_logo.svg"
+        },
+        {
+            "title": "Best Buy",
+            "description": "8c0303bc-1a05-427e-bb90-d91ecccbb168",
+            "content": "2 free rides (up to $10 each) from Best Buy!",
+            "expires_on": "2025-01-13",
+            "logo": "/logos/bestbuylogo.svg"
+        },
+        {
+            "title": "Target",
+            "description": "d050da2d-36aa-4387-923e-5fad2d20a284",
+            "content": "$10 off your next order from Target!",
+            "expires_on": "2024-12-20",
+            "logo": "/logos/targetlogo.png"
+        },
+        {
+            "title": "Airbnb",
+            "description": "22129eaf-9d88-424d-acfe-6fc5019f5e06",
+            "content": "$15 store credit from Airbnb!",
+            "expires_on": "2025-01-27",
+            "logo": "/logos/airbnblogo.svg"
+        },
+        {
+            "title": "Best Buy",
+            "description": "6a92c257-1abc-4b67-a66c-a27e4ff1513f",
+            "content": "2 free rides (up to $10 each) from Best Buy!",
+            "expires_on": "2025-01-09",
+            "logo": "/logos/bestbuylogo.svg"
+        },
+        {
+            "title": "Spotify",
+            "description": "4c9a305d-ee2f-42e4-9daa-b4c36c7d8078",
+            "content": "2 free rides (up to $10 each) from Spotify!",
+            "expires_on": "2024-12-08",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg"
+        },
+        {
+            "title": "Sephora",
+            "description": "f7b1b289-5d32-4468-9feb-dbb221cbc5ae",
+            "content": "Buy one, get one free from Sephora!",
+            "expires_on": "2024-12-09",
+            "logo": "/logos/sephoralogo.svg"
+        },
+        {
+            "title": "Airbnb",
+            "description": "496b95ca-2f43-4d24-89cf-36ad0dc5405b",
+            "content": "$15 store credit from Airbnb!",
+            "expires_on": "2025-02-02",
+              "logo": "/logos/airbnblogo.svg"
+        },
+        {
+            "title": "Amazon",
+            "description": "c0e77e3b-9b0b-4946-aa9e-4aea3291e0bb",
+            "content": "$15 store credit from Amazon!",
+            "expires_on": "2024-12-17",
+            "logo": "/logos/amazonlogo.svg"
+        },
+        {
+            "title": "Sephora",
+            "description": "bbbd00bd-2224-4d4d-86ee-5e49d7c47d25",
+            "content": "$50 off your next booking from Sephora!",
+            "expires_on": "2025-02-13",
+            "logo": "/logos/sephoralogo.svg"
+        },
+        {
+            "title": "UberEats",
+            "description": "263b26e4-5b25-420b-85aa-362f2fe1a70c",
+            "content": "$5 Gift Card from UberEats!",
+            "expires_on": "2024-12-27",
+            "logo": "/logos/uberlogo.svg"
+        }
+    ]
+}
